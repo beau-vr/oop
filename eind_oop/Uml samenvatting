@@ -1,0 +1,10 @@
+Hieronder de UML-legenda:
+
+
+schuingedrukt = abstract
+pijltjes met niet ingekleurde punt = childclass (overerving)
+onderstreept = static
+
++ = public
+- = private
+# = protected
