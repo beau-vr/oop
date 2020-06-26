@@ -15,3 +15,12 @@ echo $mijn_cilinder->berekenOpervlakte();
 $mijn_vierkant = new Vierkant(10, 10);
 
 echo $mijn_vierkant->berekenOpervlakte();
+
+$cilinder = new Cilinder(40, 40);
+
+
+echo $cilinder->berekenOpervlakte();
+
+$vierkant = new Vierkant(15, 15);
+
+echo $vierkant->berekenOpervlakte();
